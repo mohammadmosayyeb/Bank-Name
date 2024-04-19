@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
+
+* {
+    margin: 0;
+
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+
+}
+
+
+
+body {
+    /* background: black; */
+}
+
+.card {
+    width: 50vw;
+    height: 30vw;
+    background: rgb(123, 126, 138);
+    margin-left: calc(50vw - 25vw);
+    margin-top: calc(50vh - 15vw);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .name {
+        direction: rtl;
+        width: 100%;
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .number {
+        direction: rtl;
+
+        input {
+            background: none;
+            border: none;
+            font-size: 1.5em;
+            text-align: center;
+        }
+    }
+
+
+}
