@@ -40,5 +40,3 @@
 پست بانک ایران
 موسسه اعتباری توسعه
 موسسه اعتباری کوثر
-![image](https://github.com/mohammadmosayyeb/Bank-Name/assets/59848315/a89dec9e-d4f8-4476-8854-6e87121c87a8)
-
